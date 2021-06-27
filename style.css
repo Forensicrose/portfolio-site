@@ -28,13 +28,19 @@ p {
 ul {
   display: flex;
   margin-left: 800px;
+  font-weight: bolder;
 }
 
 li {
   width: 200px;
   list-style: none;
+  justify-content: space-between;
 }
 
 .nametitle {
   padding: 100px;
+}
+
+.socialmedia {
+  text-align: right;
 }
