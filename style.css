@@ -102,3 +102,14 @@ hr {
   text-decoration: none;
   color: #808080;
 }
+
+a {
+  text-decoration: none;
+  color: #808080;
+}
+
+footer {
+  color: #1c1d25;
+  text-align: center;
+  background-color: #d87093;
+}
